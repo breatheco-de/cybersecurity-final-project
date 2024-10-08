@@ -66,7 +66,7 @@ The final phase involves designing an incident response plan based on industry b
 4. Implement an ISMS (ISO 27001). Develop an Information Security Management System (ISMS) that complies with ISO 27001 standards, including risk analysis, definition of security policies, and action plans to protect the company’s critical information.
 
 
-## 🚛 How to Submit This Project?
+## 📦 How to Submit This Project?
 
 - [ ] Create a **network diagram** using tools like Packet Tracer that reflects the current network topology and recommended changes.
 - [ ] Present the **Debian virtual machine** with services correctly configured and issues resolved.

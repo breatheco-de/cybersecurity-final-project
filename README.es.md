@@ -70,7 +70,7 @@ La fase final consiste en diseñar un plan de respuesta a incidentes basado en l
 4. Implementar un SGSI (ISO 27001). Desarrolla un Sistema de Gestión de Seguridad de la Información (SGSI) que cumpla con los estándares de ISO 27001, como: análisis de riesgos,
 definición de políticas de seguridad, planes de acción para proteger la información crítica de la empresa.
 
-## 🚛 ¿Cómo entregar este proyecto?
+## 📦 ¿Cómo entregar este proyecto?
 
 - [ ] Crea un **diagrama de la red** usando herramientas como Packet Tracer, que refleje la topología de la red actual y los cambios recomendados.
 - [ ] Presenta la **máquina virtual Debian** con los servicios configurados correctamente y los problemas solucionados.
