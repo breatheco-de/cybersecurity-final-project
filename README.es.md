@@ -2,13 +2,13 @@
 
 <!-- hide -->
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/4GeeksAcademy/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/4GeeksAcademy/cybersecurity-final-project/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-kali-linux-on-virtual-machine)
+![last commit](https://img.shields.io/github/last-commit/4geeksacademy/cybersecurity-final-project)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/breatheco-de/traffic-simulation-on-wordpress/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/cybersecurity-final-project/blob/main/README.md)*
 <!-- endhide -->
 
 

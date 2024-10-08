@@ -19,11 +19,5 @@
         "network security"
     ],
     "repository": "https://github.com/your-repo/cybersecurity-final-project",
-    "preview": "https://raw.githubusercontent.com/your-repo/cybersecurity-final-project/main/assets/preview-image.png",
-    "delivery": {
-        "instructions": {
-            "en": "Please upload your final project report.pdf file to your GitHub repository and provide the link to your repository here.",
-            "es": "Por favor sube tu archivo final-project-report.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí."
-        }
-    }
+    "preview": "https://raw.githubusercontent.com/your-repo/cybersecurity-final-project/main/assets/preview-image.png"
 }
