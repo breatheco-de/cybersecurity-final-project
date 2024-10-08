@@ -1,0 +1,29 @@
+{
+    "title": {
+        "us": "Cybersecurity Final Project",
+        "es": "Proyecto Final de Ciberseguridad"
+    },
+    "slug": "cybersecurity-final-project",
+    "description": {
+        "us": "This final project aims to simulate a comprehensive cybersecurity exercise where students assume the role of cybersecurity analysts tasked with restoring and protecting a compromised server at 4Geeks Academy. The project is divided into three phases: forensic analysis, vulnerability detection and correction, and incident response planning.",
+        "es": "Este proyecto final tiene como objetivo simular un ejercicio integral de ciberseguridad donde los estudiantes asumen el rol de analistas de ciberseguridad encargados de restaurar y proteger un servidor comprometido en 4Geeks Academy. El proyecto se divide en tres fases: análisis forense, detección y corrección de vulnerabilidades, y planificación de respuesta a incidentes."
+    },
+    "duration": 3,
+    "difficulty": "intermediate",
+    "technologies": [
+        "cybersecurity",
+        "ciberseguridad",
+        "forensic analysis",
+        "penetration testing",
+        "incident response",
+        "network security"
+    ],
+    "repository": "https://github.com/your-repo/cybersecurity-final-project",
+    "preview": "https://raw.githubusercontent.com/your-repo/cybersecurity-final-project/main/assets/preview-image.png",
+    "delivery": {
+        "instructions": {
+            "en": "Please upload your final project report.pdf file to your GitHub repository and provide the link to your repository here.",
+            "es": "Por favor sube tu archivo final-project-report.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí."
+        }
+    }
+}
