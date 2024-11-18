@@ -38,7 +38,7 @@ La fase final consiste en diseñar un plan de respuesta a incidentes basado en l
 
 ## 📝 Instrucciones
 
-### Fase 1: Analisis Forense
+### Fase 1: Reconocimiento y recolección de evidencias
 
 **Objetivo:** Lleva a cabo un análisis forense para bloquear el exploit, corregir la vulnerabilidad y evitar que el atacante escale.
 

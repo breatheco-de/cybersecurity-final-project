@@ -32,7 +32,7 @@ The final phase involves designing an incident response plan based on industry b
 
 ## 📝 Instructions
 
-### Phase 1: Forensic Analysis
+### Phase 1: Recognition and collection of evidence
 
 **Objective:** Conduct a forensic analysis to block the exploit, fix the vulnerability, and prevent the attacker from escalating.
 
