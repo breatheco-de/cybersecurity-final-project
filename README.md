@@ -14,6 +14,7 @@
 <!-- endhide -->
 
 <onlyfor saas="true" withBanner="false">
+  
 # 🌱 How to Start This Project
 
 For this final project, you will assume the role of a cybersecurity analyst responsible for restoring and protecting a critical server that has been compromised at 4Geeks Academy. You will be provided with a [hacked machine](https://storage.googleapis.com/breathecode/virtualbox/debian-final-project.ova) that simulates a key company server, and your task will be to re-establish its security, fix the exploited vulnerabilities, and ensure its optimal functionality. The exercise is divided into three phases that will test your skills in forensic analysis, vulnerability detection and remediation, and incident response.
