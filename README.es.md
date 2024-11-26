@@ -14,7 +14,7 @@
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas=false withBanner="false">
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Para este proyecto final, asumirás el rol de analista de ciberseguridad encargado de restaurar y proteger un servidor crítico que ha sido comprometido en 4Geeks Academy. Se te proporcionará una [máquina hackeada](https://storage.googleapis.com/breathecode/virtualbox/debian-final-project.ova) que simula un servidor clave de la empresa, y tu tarea será restablecer su seguridad, corregir las vulnerabilidades explotadas y garantizar su funcionamiento óptimo. El ejercicio se divide en tres fases que pondrán a prueba tus habilidades en análisis forense, detección y corrección de vulnerabilidades, y respuesta ante incidentes.
