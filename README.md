@@ -13,7 +13,7 @@
 > We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas=false withBanner="false">
   
 # 🌱 How to Start This Project
 
