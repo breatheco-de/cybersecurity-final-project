@@ -9,6 +9,7 @@
         "es": "Este proyecto final tiene como objetivo simular un ejercicio integral de ciberseguridad donde los estudiantes asumen el rol de analistas de ciberseguridad encargados de restaurar y proteger un servidor comprometido en 4Geeks Academy. El proyecto se divide en tres fases: análisis forense, detección y corrección de vulnerabilidades, y planificación de respuesta a incidentes."
     },
     "duration": 3,
+    "projectType": "project",
     "preview": "https://github.com/breatheco-de/cybersecurity-final-project/blob/main/assets/preview.jpg?raw=true",
     "solution": {
         "us": "https://github.com/breatheco-de/cybersecurity-final-project/blob/main/assets/SOLUTION.md",
