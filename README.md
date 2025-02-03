@@ -76,6 +76,55 @@ The final phase involves designing an incident response plan based on industry b
 - [ ] Create an **executive presentation** for management, explaining what happened, the actions taken, and future recommendations.
 
 
+
+## 👨‍💻 For Teachers
+
+Below are the key reviews that the instructor should consider in the student's deliverable:
+
+### Identification and Documentation of Vulnerabilities
+
+- **Verification of MySQL Configuration:**
+    - Confirm that the student has correctly identified the user with a weak password.
+    - Review if a concrete solution is suggested (use of strong passwords, access restrictions, etc.).
+
+- **FTP Server Configuration:**
+    - Validate that the student has analyzed permissions and anonymous access.
+    - Confirm if it is recommended to disable insecure access or strengthen the configuration.
+
+- **Insecure SSH Access:**
+    - Review if weak authentication methods have been detected.
+    - Confirm if solutions such as disabling root login or using public key authentication are proposed.
+
+- **Unnecessary Open Ports:**
+    - Check if the student has performed a port scan with nmap or similar tools.
+    - Validate that unnecessary services have been identified and proposed to close the corresponding ports.
+
+- **Permissions on wp-config.php:**
+    - Confirm if the current permissions have been reviewed and a correction is proposed (e.g., chmod 600 wp-config.php).
+
+- **Listable Web Directory:**
+    - Review if the configuration on the web server (Apache/Nginx) has been identified.
+    - Check if the student has applied the correct solution (modify .htaccess or Options -Indexes).
+
+
+### Configuration and Validation of the Debian Machine
+- Review if the Debian machine has correctly configured services with enhanced security.
+- Check that the proposed solutions have been applied and tests have been conducted to validate their effectiveness.
+
+### Required Reports
+    
+- Pentesting Report: Confirm that it includes details of each vulnerability, tests performed, and solutions applied.
+
+- Security Incident Report: Validate if a forensic analysis of the findings is described and review that corrective and preventive measures implemented are explained.
+
+- Incident Recovery Plan: Check if the plan covers critical services and details recovery procedures.
+
+- Executive Presentation for Management: Evaluate if it is structured clearly and professionally. Verify if it includes a summary of detected issues, implemented solutions, and future recommendations.
+
+
+The instructor must ensure that the deliverable not only documents the findings but also proposes applicable solutions and shows evidence of their implementation. The presentation should be aligned with a professional and management-oriented approach.
+
+
 <!-- hide -->
 ## Contributors
 

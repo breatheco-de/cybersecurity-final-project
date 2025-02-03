@@ -81,6 +81,55 @@ definición de políticas de seguridad, planes de acción para proteger la infor
 
 <!-- hide -->
 
+## 👨‍💻 Para profesores
+
+A continuación, se detallan las revisiones clave que el profesor debe considerar en el entregable del estudiante:
+
+### Identificación y documentación de vulnerabilidades
+
+- **Verificación de la configuración de MySQL:**
+    - Confirmar que el estudiante ha identificado correctamente el usuario con contraseña débil.
+    - Revisar si se sugiere una solución concreta (uso de contraseñas seguras, restricciones de acceso, etc.).
+
+- **Configuración del servidor FTP:**
+    - Validar que el estudiante ha analizado los permisos y acceso anónimo.
+    - Confirmar si se recomienda desactivar accesos inseguros o reforzar la configuración.
+
+- **Acceso SSH inseguro:**
+    - Revisar si se han detectado métodos de autenticación débiles.
+    - Confirmar si se proponen soluciones como deshabilitar root login o usar autenticación con clave pública.
+
+- **Puertos abiertos innecesarios:**
+    - Comprobar si el estudiante ha realizado un escaneo de puertos con nmap o herramientas similares.
+    - Validar que ha identificado los servicios innecesarios y ha propuesto cerrar los puertos correspondientes.
+
+- **Permisos en wp-config.php:**
+    - Confirmar si se han revisado los permisos actuales y se propone una corrección (ejemplo: chmod 600 wp-config.php).
+
+- **Directorio web listable:**
+    - Revisar si se ha identificado la configuración en el servidor web (Apache/Nginx).
+    - Comprobar si el estudiante ha aplicado la solución correcta (modificar .htaccess o Options -Indexes).
+
+
+### Configuración y validación de la máquina Debian
+- Revisar si la máquina con Debian tiene correctamente configurados los servicios con seguridad reforzada.
+- Comprobar que se han aplicado las soluciones propuestas y que se han realizado pruebas para validar su efectividad.
+
+### Informes requeridos
+    
+- Informe de pentesting: Confirmar que incluye detalles de cada vulnerabilidad, pruebas realizadas y soluciones aplicadas.
+
+- Informe de incidente de seguridad: Validar si se describe un análisis forense de los hallazgos y revisar que se expliquen las medidas correctivas y preventivas implementadas.
+
+- Plan de recuperación ante incidentes: Comprobar si el plan cubre los servicios críticos y detalla procedimientos de recuperación.
+
+- Presentación ejecutiva para la gerencia: Evaluar si está estructurada de forma clara y profesional. Verificar si incluye un resumen de los problemas detectados, soluciones implementadas y recomendaciones futuras.
+
+
+El profesor debe asegurarse de que el entregable no solo documente los hallazgos, sino que también proponga soluciones aplicables y muestre pruebas de su implementación. La presentación debe estar alineada con un enfoque profesional y orientado a la gerencia.
+
+
+
 
 ## Colaboradores
 
