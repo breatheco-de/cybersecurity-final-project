@@ -11,10 +11,6 @@
 *These instructions are [available in english](https://github.com/breatheco-de/cybersecurity-final-project/blob/main/README.md)*
 <!-- endhide -->
 
-
-<!-- hide -->
-
-
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
