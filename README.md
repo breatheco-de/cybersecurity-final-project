@@ -13,7 +13,7 @@
 > We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 # 🌱 How to Start This Project
 
@@ -27,7 +27,7 @@ In the second phase, you will scan the system for an additional vulnerability, d
 
 - **Phase 3 - Incident Response Plan and Certification**  
 The final phase involves designing an incident response plan based on industry best practices, such as the NIST recommendations. As part of this exercise, you will develop an Information Security Management System (ISMS) in accordance with the ISO 27001 standard, which will include measures to prevent data leaks through Data Loss Prevention (DLP) policies.
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
