@@ -1,6 +1,5 @@
-# Proyecto final de ciberseguridad
-
 <!-- hide -->
+# Proyecto final de ciberseguridad
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/4GeeksAcademy/cybersecurity-final-project/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -9,11 +8,11 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are [available in english](https://github.com/breatheco-de/cybersecurity-final-project/blob/main/README.md)*
-<!-- endhide -->
 
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
+<!-- endhide -->
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -22,15 +21,11 @@ Para este proyecto final, asumirás el rol de analista de ciberseguridad encarga
 - **Fase 1 - Corrección de un hackeo**
 Durante la primera fase, deberas realizar un análisis forense del incidente, identificar las vulnerabilidades explotadas por el atacante, y bloquear el exploit para evitar que el ataque escale. 
 
-
 - **Fase 2 - Detección y corrección de una nueva vulnerabilidad**
 En la segunda fase, escanea el sistema en busca de una vulnerabilidad adicional, diferente a la explotada anteriormente. Tras detectarla, explota la vulnerabilidad de manera controlada para entender su impacto, escalar sus privilegios, corregirla, y crear un informe que explique todo el proceso.
 
-
 - **Fase 3 - Plan de respuesta a incidentes y certificación**
 La fase final consiste en diseñar un plan de respuesta a incidentes basado en las mejores prácticas de la industria, como las recomendaciones del NIST. Como parte de este ejercicio, debes desarrollar un Sistema de Gestión de Seguridad de la Información (SGSI) conforme a la norma ISO 27001, que incluya medidas para prevenir la fuga de datos mediante políticas de prevención de pérdida de datos (DLP).
-
-
 
 ## 📝 Instrucciones
 
@@ -75,7 +70,6 @@ definición de políticas de seguridad, planes de acción para proteger la infor
 - [ ] Elabora un **plan para la recuperación en caso de incidencia**, asegurando la continuidad de los servicios críticos de la empresa.
 - [ ] Elabora una **presentación** con un enfoque ejecutivo para la gerencia, explicando lo ocurrido, las acciones tomadas, y las recomendaciones futuras.
 
-<!-- hide -->
 
 ## 👨‍💻 Para profesores
 
@@ -121,11 +115,8 @@ A continuación, se detallan las revisiones clave que el profesor debe considera
 
 - Presentación ejecutiva para la gerencia: Evaluar si está estructurada de forma clara y profesional. Verificar si incluye un resumen de los problemas detectados, soluciones implementadas y recomendaciones futuras.
 
-
+<-- hide -->
 El profesor debe asegurarse de que el entregable no solo documente los hallazgos, sino que también proponga soluciones aplicables y muestre pruebas de su implementación. La presentación debe estar alineada con un enfoque profesional y orientado a la gerencia.
-
-
-
 
 ## Colaboradores
 
