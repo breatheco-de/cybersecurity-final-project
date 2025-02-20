@@ -14,7 +14,6 @@
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Para este proyecto final, asumirás el rol de analista de ciberseguridad encargado de restaurar y proteger un servidor crítico que ha sido comprometido en 4Geeks Academy. Se te proporcionará una [máquina hackeada](https://storage.googleapis.com/breathecode/virtualbox/debian-final-project.ova) que simula un servidor clave de la empresa, y tu tarea será restablecer su seguridad, corregir las vulnerabilidades explotadas y garantizar su funcionamiento óptimo. El ejercicio se divide en tres fases que pondrán a prueba tus habilidades en análisis forense, detección y corrección de vulnerabilidades, y respuesta ante incidentes.
@@ -27,7 +26,6 @@ En la segunda fase, escanea el sistema en busca de una vulnerabilidad adicional,
 
 - **Fase 3 - Plan de respuesta a incidentes y certificación**
 La fase final consiste en diseñar un plan de respuesta a incidentes basado en las mejores prácticas de la industria, como las recomendaciones del NIST. Como parte de este ejercicio, debes desarrollar un Sistema de Gestión de Seguridad de la Información (SGSI) conforme a la norma ISO 27001, que incluya medidas para prevenir la fuga de datos mediante políticas de prevención de pérdida de datos (DLP).
-</onlyfor>
 
 ## 📝 Instrucciones
 
