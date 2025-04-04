@@ -24,5 +24,13 @@
         "incident response",
         "network security"
     ],
-    "repository": "https://github.com/your-repo/cybersecurity-final-project"
+    "repository": "https://github.com/your-repo/cybersecurity-final-project",
+    "delivery": {
+        "instructions": {
+            "en": "Upload all deliverables (VM, reports, diagrams, and presentation) to a shared GitHub repository or cloud folder and submit the URL.",
+            "es": "Sube todos los entregables (VM, informes, diagramas y presentación) a un repositorio GitHub o carpeta en la nube y envía la URL."
+        },
+        "formats": ["url"],
+        "regex": "https://"
+    }
 }
