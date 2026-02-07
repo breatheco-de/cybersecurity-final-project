@@ -110,10 +110,10 @@ PORT        STATE       SERVICE         VERSION
 |   cpe:/a:apache:http_server:2.4.62: 
 |     	PACKETSTORM:213257	9.1	https://vulners.com/packetstorm/PACKETSTORM:213257	*EXPLOIT* --> No existe, ya que requiere certificado instalado.
 |     	CVE-2025-23048	9.1	https://vulners.com/cve/CVE-2025-23048  --> No existe, ya que requiere certificado instalado.
-|     	CNVD-2025-16610	9.1	https://vulners.com/cnvd/CNVD-2025-16610 --> No existe, ya que el servidor maneja correctamente las secuendias de escape. Los filtros de seguridad de apache estan operativos.
-|     	CVE-2025-58098	8.3	https://vulners.com/cve/CVE-2025-58098
-|     	CVE-2025-59775	7.5	https://vulners.com/cve/CVE-2025-59775
-|     	CVE-2025-55753	7.5	https://vulners.com/cve/CVE-2025-55753
+|     	CNVD-2025-16610	9.1	https://vulners.com/cnvd/CNVD-2025-16610 
+|     	CVE-2025-58098	8.3	https://vulners.com/cve/CVE-2025-58098 
+|     	CVE-2025-59775	7.5	https://vulners.com/cve/CVE-2025-59775 --> No existe, Esta vulnerabilidad solo aparece en hosts Windows
+|     	CVE-2025-55753	7.5	https://vulners.com/cve/CVE-2025-55753 --> No existe, El servidor no esta utilizado certificado SSL/TLL, esta vulnerabilidad requiere de la renovación de un certificado.
 |     	CVE-2025-53020	7.5	https://vulners.com/cve/CVE-2025-53020
 |     	CVE-2025-49630	7.5	https://vulners.com/cve/CVE-2025-49630
 |     	CVE-2024-47252	7.5	https://vulners.com/cve/CVE-2024-47252
